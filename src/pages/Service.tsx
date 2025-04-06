@@ -1,5 +1,3 @@
-import Distinction from "../components/Distinction";
-
 function Services() {
   return (
     <>

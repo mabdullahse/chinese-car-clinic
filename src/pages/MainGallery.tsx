@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 const MainGallery = () => {
-  const [selectedImage, setSelectedImage] = useState(null);
+  const [selectedImage, setSelectedImage] = useState("");
 
   // Image list (Replace with your actual images)
   const images = Array.from(
@@ -31,9 +31,9 @@ const MainGallery = () => {
       {selectedImage && (
         <div
           className="modal fade show d-block"
-          tabIndex="-1"
+          tabIndex={-1}
           style={{ background: "rgba(0,0,0,0.7)" }}
-          onClick={() => setSelectedImage(null)}
+          onClick={() => setSelectedImage("")}
         >
           <div className="modal-dialog modal-lg modal-dialog-centered">
             <div className="modal-content bg-transparent border-0">

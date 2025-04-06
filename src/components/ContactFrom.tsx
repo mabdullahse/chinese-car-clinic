@@ -53,9 +53,9 @@ function ContactFrom() {
                 src="https://www.google.com/maps?q=21.2573696,40.4426195&z=15&output=embed"
                 frameBorder="0"
                 style={{ minHeight: "350px", border: "0" }}
-                allowFullScreen=""
+                allowFullScreen // ✅ Correct way to use a boolean attribute
                 aria-hidden="false"
-                tabindex="0"
+                tabIndex={0} // ✅ In JSX, use camelCase for `tabIndex`
               ></iframe>
             </div>
             <div className="col-md-6">
@@ -64,9 +64,9 @@ function ContactFrom() {
                 src="https://www.google.com/maps?q=21.258026678186095,40.44077442883545&z=15&output=embed"
                 frameBorder="0"
                 style={{ minHeight: "350px", border: "0" }}
-                allowFullScreen=""
+                allowFullScreen
                 aria-hidden="false"
-                tabindex="0"
+                tabIndex={0}
               ></iframe>
             </div>
           </div>
