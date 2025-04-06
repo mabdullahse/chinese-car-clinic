@@ -8,7 +8,10 @@ function Distinction() {
               <i className="fa fa-certificate fa-3x text-primary flex-shrink-0"></i>
               <div className="ps-4">
                 <h5 className="mb-3">Quality Servicing</h5>
-                <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                <p>
+                  نحن نقدم خدمات سيارات موثوقة واحترافية للحفاظ على سيارتك في
+                  أفضل حالة.
+                </p>
                 {/* <a className="text-secondary border-bottom" href="">
                   Read More
                 </a> */}
@@ -20,7 +23,10 @@ function Distinction() {
               <i className="fa fa-users-cog fa-3x text-primary flex-shrink-0"></i>
               <div className="ps-4">
                 <h5 className="mb-3">Expert Workers</h5>
-                <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                <p>
+                  يضمن محترفونا المهرة تقديم خدمات سيارات عالية الجودة بدقة
+                  وخبرة.
+                </p>
                 {/* <a className="text-secondary border-bottom" href="">
                   Read More
                 </a> */}
@@ -32,7 +38,10 @@ function Distinction() {
               <i className="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
               <div className="ps-4">
                 <h5 className="mb-3">Modern Equipment</h5>
-                <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                <p>
+                  نستخدم أدوات وتقنيات متقدمة لتقديم خدمات سيارات فعالة وعالية
+                  الجودة.
+                </p>
                 {/* <a className="text-secondary border-bottom" href="">
                   Read More
                 </a> */}

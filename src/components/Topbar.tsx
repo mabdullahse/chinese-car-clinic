@@ -17,7 +17,7 @@ function Topbar() {
           </div>
           <div className="h-100 d-inline-flex align-items-center py-3">
             <small className="far fa-clock text-primary me-2"></small>
-            <small>Mon - Thr : 07.00 AM - 07.00 PM</small>
+            <small>**متاحون يومياً: من 8:00 صباحاً حتى 9:00 مساءً**</small>
           </div>
         </div>
         <div className="col-lg-5 px-5 text-end">

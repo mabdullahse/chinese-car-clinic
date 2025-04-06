@@ -56,10 +56,10 @@ function Footer() {
             </div>
             <div className="col-lg-3 col-md-6">
               <h4 className="text-light mb-4">Opening Hours</h4>
-              <h6 className="text-light">Monday - Thrusday:</h6>
-              <p className="mb-4">07.00 AM - 07.00 PM</p>
-              <h6 className="text-light">Saturday - Sunday:</h6>
-              <p className="mb-0">07.00 AM - 07.00 PM</p>
+              <h6 className="text-light">Saturday - Thrusday:</h6>
+              <p className="mb-4">08.00 AM - 09.00 PM</p>
+              <h6 className="text-light">Friday:</h6>
+              <p className="mb-0">03.00 PM - 09.00 PM</p>
             </div>
             <div className="col-lg-3 col-md-6">
               <h4 className="text-light mb-4">Services</h4>

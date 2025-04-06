@@ -61,7 +61,7 @@ function ContactFrom() {
             <div className="col-md-6">
               <iframe
                 className="position-relative rounded w-100 h-100"
-                src="https://www.google.com/maps?q=21.258026678186095,40.44077442883545&z=15&output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3452.1440806965947!2d40.4407637!3d21.2578417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15e98f72f815789b%3A0x4b5624dc906809cc!2zSGVueWRhaSBraWEgTUcg2YXYt9i52YUg2KfZhNis2KfZgSDYrNin2YjYp9mG2YrYqg!5e0!3m2!1sen!2ssa!4v1712467890123"
                 frameBorder="0"
                 style={{ minHeight: "350px", border: "0" }}
                 allowFullScreen

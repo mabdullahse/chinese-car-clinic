@@ -18,7 +18,7 @@ function Gallery() {
                 <div className="position-relative overflow-hidden">
                   <img
                     className="img-fluid   cursor-pointer"
-                    src="img/workshop/3.JPG"
+                    src="img/workshop/3-min.JPG"
                     alt=""
                   />
                   {/* <div className="team-overlay position-absolute start-0 top-0 w-100 h-100">
@@ -47,7 +47,7 @@ function Gallery() {
                 <div className="position-relative overflow-hidden">
                   <img
                     className="img-fluid cursor-pointer"
-                    src="img/workshop/1.JPG"
+                    src="img/workshop/1-min.JPG"
                     alt=""
                   />
                   {/* <div className="team-overlay position-absolute start-0 top-0 w-100 h-100">
@@ -76,7 +76,7 @@ function Gallery() {
                 <div className="position-relative overflow-hidden">
                   <img
                     className="img-fluid cursor-pointer"
-                    src="img/workshop/2.JPG"
+                    src="img/workshop/2-min.JPG"
                     alt=""
                   />
                   {/* <div className="team-overlay position-absolute start-0 top-0 w-100 h-100">
@@ -105,7 +105,7 @@ function Gallery() {
                 <div className="position-relative overflow-hidden">
                   <img
                     className="img-fluid cursor-pointer"
-                    src="img/workshop/4.JPG"
+                    src="img/workshop/4-min.JPG"
                     alt=""
                   />
                   {/* <div className="team-overlay position-absolute start-0 top-0 w-100 h-100">

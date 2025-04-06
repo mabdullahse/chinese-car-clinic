@@ -28,13 +28,15 @@ function AboutUs() {
           <div className="col-lg-6">
             <h6 className="text-primary text-uppercase">// About Us //</h6>
             <h1 className="mb-4">
-              <span className="text-primary">CarServ</span> Is The Best Place
-              For Your Auto Care
+              <span className="text-primary">
+                المركز الصيني لصيانة السيارات
+              </span>{" "}
+              The Best Place for Your Auto Care
             </h1>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
+              We provide top-notch automotive care with expert professionals and
+              modern equipment to ensure your vehicle runs smoothly and
+              efficiently.
             </p>
             <div className="row g-4 mb-3 pb-3">
               <div className="col-12 wow fadeIn" data-wow-delay="0.1s">
@@ -47,7 +49,10 @@ function AboutUs() {
                   </div>
                   <div className="ps-3">
                     <h6>Professional & Expert</h6>
-                    <span>Diam dolor diam ipsum sit amet diam et eos</span>
+                    <span>
+                      Our skilled professionals deliver high-quality services
+                      with precision and expertise.
+                    </span>
                   </div>
                 </div>
               </div>
@@ -61,7 +66,10 @@ function AboutUs() {
                   </div>
                   <div className="ps-3">
                     <h6>Quality Servicing Center</h6>
-                    <span>Diam dolor diam ipsum sit amet diam et eos</span>
+                    <span>
+                      We use advanced tools and technology to provide reliable
+                      and efficient automotive solutions.
+                    </span>
                   </div>
                 </div>
               </div>
@@ -75,7 +83,10 @@ function AboutUs() {
                   </div>
                   <div className="ps-3">
                     <h6>Awards Winning Workers</h6>
-                    <span>Diam dolor diam ipsum sit amet diam et eos</span>
+                    <span>
+                      Our experienced and certified technicians are recognized
+                      for their excellence in the industry.
+                    </span>
                   </div>
                 </div>
               </div>

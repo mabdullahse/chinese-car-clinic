@@ -17,8 +17,13 @@ function Carousel() {
                       // Car Servicing //
                     </h6>
                     <h1 className="display-3 text-white mb-4 pb-3 animated slideInDown">
-                      مركز خدمة إصلاح السيارات المؤهل
+                      المركز الصيني لصيانة السيارات
                     </h1>
+                    <p>
+                      **المركز الصيني لصيانة السيارات** نقدم خدمات صيانة وإصلاح
+                      سيارات عالية الجودة باستخدام أحدث المعدات وأفضل الخبراء
+                      لضمان أداء مثالي لمركبتك.
+                    </p>
                     {/* <a
                       href=""
                       className="btn btn-primary py-3 px-5 animated slideInDown"
