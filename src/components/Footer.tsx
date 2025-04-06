@@ -56,28 +56,18 @@ function Footer() {
             </div>
             <div className="col-lg-3 col-md-6">
               <h4 className="text-light mb-4">Opening Hours</h4>
-              <h6 className="text-light">Monday - Friday:</h6>
-              <p className="mb-4">09.00 AM - 09.00 PM</p>
+              <h6 className="text-light">Monday - Thrusday:</h6>
+              <p className="mb-4">07.00 AM - 07.00 PM</p>
               <h6 className="text-light">Saturday - Sunday:</h6>
-              <p className="mb-0">09.00 AM - 12.00 PM</p>
+              <p className="mb-0">07.00 AM - 07.00 PM</p>
             </div>
             <div className="col-lg-3 col-md-6">
               <h4 className="text-light mb-4">Services</h4>
-              <a className="btn btn-link" href="">
-                Diagnostic Test
-              </a>
-              <a className="btn btn-link" href="">
-                Engine Servicing
-              </a>
-              <a className="btn btn-link" href="">
-                Tires Replacement
-              </a>
-              <a className="btn btn-link" href="">
-                Oil Changing
-              </a>
-              <a className="btn btn-link" href="">
-                Vacuam Cleaning
-              </a>
+              <p className="btn btn-link">Diagnostic Test</p>
+              <p className="btn btn-link">Engine Servicing</p>
+              <p className="btn btn-link">Tires Replacement</p>
+              <p className="btn btn-link">Oil Changing</p>
+              <p className="btn btn-link">Vacuam Cleaning</p>
             </div>
             {/* <div className="col-lg-3 col-md-6">
               <h4 className="text-light mb-4">Newsletter</h4>
@@ -112,12 +102,12 @@ function Footer() {
                 , All Right Reserved.
               </div>
               <div className="col-md-6 text-center text-md-end">
-                <div className="footer-menu">
+                {/* <div className="footer-menu">
                   <a href="">Home</a>
                   <a href="">Cookies</a>
                   <a href="">Help</a>
                   <a href="">FQAs</a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

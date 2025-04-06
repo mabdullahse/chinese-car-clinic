@@ -113,9 +113,9 @@ function Services() {
                         <i className="fa fa-check text-success me-3"></i>Modern
                         Equipment
                       </p>
-                      <a href="" className="btn btn-primary py-3 px-5 mt-3">
+                      {/* <a href="" className="btn btn-primary py-3 px-5 mt-3">
                         Read More<i className="fa fa-arrow-right ms-3"></i>
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>
@@ -153,9 +153,9 @@ function Services() {
                         <i className="fa fa-check text-success me-3"></i>Modern
                         Equipment
                       </p>
-                      <a href="" className="btn btn-primary py-3 px-5 mt-3">
+                      {/* <a href="" className="btn btn-primary py-3 px-5 mt-3">
                         Read More<i className="fa fa-arrow-right ms-3"></i>
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>
@@ -193,9 +193,9 @@ function Services() {
                         <i className="fa fa-check text-success me-3"></i>Modern
                         Equipment
                       </p>
-                      <a href="" className="btn btn-primary py-3 px-5 mt-3">
+                      {/* <a href="" className="btn btn-primary py-3 px-5 mt-3">
                         Read More<i className="fa fa-arrow-right ms-3"></i>
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>
@@ -233,9 +233,9 @@ function Services() {
                         <i className="fa fa-check text-success me-3"></i>Modern
                         Equipment
                       </p>
-                      <a href="" className="btn btn-primary py-3 px-5 mt-3">
+                      {/* <a href="" className="btn btn-primary py-3 px-5 mt-3">
                         Read More<i className="fa fa-arrow-right ms-3"></i>
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>

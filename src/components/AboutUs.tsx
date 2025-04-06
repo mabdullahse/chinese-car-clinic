@@ -80,9 +80,9 @@ function AboutUs() {
                 </div>
               </div>
             </div>
-            <a href="" className="btn btn-primary py-3 px-5">
+            {/* <a href="" className="btn btn-primary py-3 px-5">
               Read More<i className="fa fa-arrow-right ms-3"></i>
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
