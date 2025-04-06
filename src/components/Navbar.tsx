@@ -61,12 +61,12 @@ function Navbar() {
             Contact
           </NavLink>
         </div>
-        <NavLink
+        {/* <NavLink
           to="/contact"
           className="btn btn-primary py-4 px-lg-5 d-none d-lg-block"
         >
           Get A Quote<i className="fa fa-arrow-right ms-3"></i>
-        </NavLink>
+        </NavLink> */}
       </div>
     </nav>
   );

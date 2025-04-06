@@ -21,6 +21,7 @@ const MainGallery = () => {
                 className="img-thumbnail"
                 onClick={() => setSelectedImage(img)}
                 alt={`Gallery ${index + 1}`}
+                loading="lazy"
               />
             </div>
           </div>
