@@ -6,7 +6,7 @@ const MainGallery = () => {
   // Image list (Replace with your actual images)
   const images = Array.from(
     { length: 22 },
-    (_, i) => `img/workshop/${i + 1}.JPG`
+    (_, i) => `img/workshop/${i + 1}-min.JPG`
   );
 
   return (
