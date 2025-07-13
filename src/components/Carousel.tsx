@@ -17,19 +17,13 @@ function Carousel() {
                       // Car Servicing //
                     </h6>
                     <h1 className="display-3 text-white mb-4 pb-3 animated slideInDown">
-                      المركز الصيني لصيانة السيارات
+                      شركة المركز الصيني لخدمات السيارات
                     </h1>
                     <p>
                       **المركز الصيني لصيانة السيارات** نقدم خدمات صيانة وإصلاح
                       سيارات عالية الجودة باستخدام أحدث المعدات وأفضل الخبراء
                       لضمان أداء مثالي لمركبتك.
                     </p>
-                    {/* <a
-                      href=""
-                      className="btn btn-primary py-3 px-5 animated slideInDown"
-                    >
-                      Learn More<i className="fa fa-arrow-right ms-3"></i>
-                    </a> */}
                   </div>
                   <div className="col-lg-5 d-none d-lg-flex animated zoomIn">
                     <img
@@ -49,22 +43,78 @@ function Carousel() {
                 <div className="row align-items-center justify-content-center justify-content-lg-start">
                   <div className="col-10 col-lg-7 text-center text-lg-start">
                     <h6 className="text-white text-uppercase mb-3 animated slideInDown">
-                      // Car Servicing //
+                      // Computer Diagnostics //
                     </h6>
                     <h1 className="display-3 text-white mb-4 pb-3 animated slideInDown">
-                      Qualified Car Wash Service Center
+                      الفحص بالكمبيوتر كامل
                     </h1>
-                    {/* <a
-                      href=""
-                      className="btn btn-primary py-3 px-5 animated slideInDown"
-                    >
-                      Learn More<i className="fa fa-arrow-right ms-3"></i>
-                    </a> */}
+                    <p>
+                      تشخيص دقيق لجميع أعطال السيارة باستخدام أحدث أجهزة الفحص
+                      الإلكتروني.
+                    </p>
                   </div>
                   <div className="col-lg-5 d-none d-lg-flex animated zoomIn">
                     <img
                       className="img-fluid"
-                      src="img/carousel-2.png"
+                      src="img/carousel-3.webp"
+                      alt=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="carousel-item">
+            <img className="w-100" src="img/slider/2.JPG" alt="Image" />
+            <div className="carousel-caption d-flex align-items-center">
+              <div className="container">
+                <div className="row align-items-center justify-content-center justify-content-lg-start">
+                  <div className="col-10 col-lg-7 text-center text-lg-start">
+                    <h6 className="text-white text-uppercase mb-3 animated slideInDown">
+                      // Full Maintenance //
+                    </h6>
+                    <h1 className="display-3 text-white mb-4 pb-3 animated slideInDown">
+                      صيانة شاملة
+                    </h1>
+                    <p>
+                      خدمات صيانة دورية كاملة للحفاظ على سيارتك في أفضل حالة
+                      وتشمل جميع الأنظمة الأساسية.
+                    </p>
+                  </div>
+                  <div className="col-lg-5 d-none d-lg-flex animated zoomIn">
+                    <img
+                      className="img-fluid"
+                      src="img/carousel-4.jpg"
+                      alt=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="carousel-item">
+            <img className="w-100" src="img/slider/2.JPG" alt="Image" />
+            <div className="carousel-caption d-flex align-items-center">
+              <div className="container">
+                <div className="row align-items-center justify-content-center justify-content-lg-start">
+                  <div className="col-10 col-lg-7 text-center text-lg-start">
+                    <h6 className="text-white text-uppercase mb-3 animated slideInDown">
+                      // Engine Overhaul //
+                    </h6>
+                    <h1 className="display-3 text-white mb-4 pb-3 animated slideInDown">
+                      توضيب مكينة
+                    </h1>
+                    <p>
+                      إصلاح وتجديد شامل للمحرك لضمان أفضل أداء وعمر أطول
+                      للمكينة.
+                    </p>
+                  </div>
+                  <div className="col-lg-5 d-none d-lg-flex animated zoomIn">
+                    <img
+                      className="img-fluid"
+                      src="img/carousel-5.jpg"
                       alt=""
                     />
                   </div>

@@ -15,11 +15,13 @@ function Topbar() {
               </a>
             </small>
           </div>
+
           <div className="h-100 d-inline-flex align-items-center py-3">
             <small className="far fa-clock text-primary me-2"></small>
             <small>**متاحون يومياً: من 8:00 صباحاً حتى 9:00 مساءً**</small>
           </div>
         </div>
+
         <div className="col-lg-5 px-5 text-end">
           <div className="h-100 d-inline-flex align-items-center py-3 me-4">
             <small className="fa fa-phone-alt text-primary me-2"></small>

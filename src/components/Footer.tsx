@@ -29,11 +29,11 @@ function Footer() {
               </p>
               <p className="mb-2">
                 <a
-                  href="mailto:chinesecenterforautomotiveserv@gmail.com
+                  href="mailto:chinesecenter786@gmail.com
 "
                 >
                   <i className="fa fa-envelope me-3"></i>
-                  chinesecenterforautomotiveserv@gmail.com
+                  chinesecenter786@gmail.com
                 </a>
               </p>
               <div className="d-flex pt-2">

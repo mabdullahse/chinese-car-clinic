@@ -34,10 +34,10 @@ function ContactFrom() {
                     <p className="m-0">
                       <i className="fa fa-envelope-open text-primary me-2"></i>
                       <a
-                        href="mailto:chinesecenterforautomotiveserv@gmail.com
+                        href="mailto:chinesecenter786@gmail.com
 "
                       >
-                        chinesecenterforautomotiveserv@gmail.com
+                        chinesecenter786@gmail.com
                       </a>
                     </p>
                   </div>

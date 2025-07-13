@@ -29,7 +29,7 @@ function AboutUs() {
             <h6 className="text-primary text-uppercase">// About Us //</h6>
             <h1 className="mb-4">
               <span className="text-primary">
-                المركز الصيني لصيانة السيارات
+                شركة المركز الصيني لخدمات السيارات
               </span>{" "}
               The Best Place for Your Auto Care
             </h1>
