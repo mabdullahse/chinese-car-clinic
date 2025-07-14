@@ -1,0 +1,5 @@
+@media (max-width: 812px) {
+  .flex-col-mob {
+    flex-direction: column !important;
+  }
+}

@@ -1,7 +1,7 @@
 function Topbar() {
   return (
     <div className="container-fluid bg-light p-0">
-      <div className={`row gx-0  d-lg-flex`}>
+      <div className={`row gx-0 flex-col-mob  d-lg-flex`}>
         <div className="col-lg-7 px-5 text-start">
           <div className="h-100 d-inline-flex align-items-center py-3 me-4">
             <small className="fa fa-map-marker-alt text-primary me-2"></small>
@@ -16,9 +16,12 @@ function Topbar() {
             </small>
           </div>
 
-          <div className="h-100 d-inline-flex align-items-center py-3">
+          <div className="h-100 me-3 d-inline-flex  align-items-center py-3">
             <small className="far fa-clock text-primary me-2"></small>
-            <small>**متاحون يومياً: من 8:00 صباحاً حتى 9:00 مساءً**</small>
+            <small>**دوام من 8:00 صباحاً حتى 9:00 مساءً**</small>
+          </div>
+          <div className="h-100  d-inline-flex align-items-center py-3">
+            <small>VAT : 313050843400003</small>
           </div>
         </div>
 
