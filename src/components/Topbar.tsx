@@ -1,3 +1,5 @@
+import LanguageSwitcher from "./LanguageSwitcher";
+
 function Topbar() {
   return (
     <div className="container-fluid bg-light p-0">
@@ -48,6 +50,8 @@ function Topbar() {
             <a className="btn btn-sm-square bg-white text-primary me-0" href="">
               <i className="fab fa-instagram"></i>
             </a> */}
+
+            {/* <LanguageSwitcher /> */}
           </div>
         </div>
       </div>

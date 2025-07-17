@@ -28,12 +28,18 @@ function Footer() {
                 <a href="tel:+966541189036">+966541189036</a>
               </p>
               <p className="mb-2">
+                <i className="fa fa-envelope me-3"></i>
                 <a
                   href="mailto:chinesecenter786@gmail.com
 "
                 >
-                  <i className="fa fa-envelope me-3"></i>
                   chinesecenter786@gmail.com
+                </a>
+              </p>
+              <p className="mb-2">
+                VAT
+                <a href="#" className="ms-2">
+                  313050843400003
                 </a>
               </p>
               <div className="d-flex pt-2">
@@ -46,6 +52,15 @@ function Footer() {
                 >
                   <i className="fab fa-facebook-f"></i>
                 </a>
+                <a
+                  className="btn btn-outline-success btn-social"
+                  href="https://wa.me/966507259008" // Replace with your WhatsApp number
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fab fa-whatsapp"></i>
+                </a>
+
                 {/* <a className="btn btn-outline-light btn-social" href="">
                   <i className="fab fa-youtube"></i>
                 </a>
@@ -59,7 +74,7 @@ function Footer() {
               <h6 className="text-light">Saturday - Thrusday:</h6>
               <p className="mb-4">08.00 AM - 09.00 PM</p>
               <h6 className="text-light">Friday:</h6>
-              <p className="mb-0">03.00 PM - 09.00 PM</p>
+              <p className="mb-0">03.30 PM - 09.00 PM</p>
             </div>
             <div className="col-lg-3 col-md-6">
               <h4 className="text-light mb-4">Services</h4>

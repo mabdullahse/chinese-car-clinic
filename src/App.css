@@ -3,3 +3,34 @@
     flex-direction: column !important;
   }
 }
+
+.logo-container {
+  width: 140px;   /* Slightly wider */
+  height: 100px;  /* Equivalent to h-25 */
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-logo {
+  max-height: 80px;   /* Increased max height for larger logos */
+  max-width: 100%;
+  object-fit: contain;
+}
+
+
+.qr-card {
+  transition: transform 0.3s ease;
+}
+
+.qr-card:hover {
+  transform: scale(1.05);
+}
+
+.qr-image {
+  max-height: 160px;
+  object-fit: contain;
+}
