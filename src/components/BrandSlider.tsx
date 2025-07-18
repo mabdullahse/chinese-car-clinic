@@ -17,11 +17,10 @@ const brands = [
 ];
 const BrandSlider = () => {
   return (
-    <div className="  p-6  max-w-xs mx-auto  ">
+    <div className=" mx-4   p-6  max-w-xs   ">
       <h2 className="h6 text-center text-muted mb-4 fw-medium">
         We Provide Services for All These Chinese Car Brands
       </h2>
-
       <Swiper
         direction="horizontal"
         loop={true}
@@ -30,13 +29,26 @@ const BrandSlider = () => {
           disableOnInteraction: false,
         }}
         modules={[Autoplay]}
-        slidesPerView={4}
         spaceBetween={20}
-        style={{ height: "103px", textAlign: "-webkit-center" }}
+        breakpoints={{
+          320: {
+            slidesPerView: 2, // Mobile
+          },
+          640: {
+            slidesPerView: 3, // Tablet
+          },
+          1024: {
+            slidesPerView: 4, // Desktop
+          },
+        }}
+        style={{ height: "103px", textAlign: "center" }}
       >
         {brands.map((brand, index) => (
           <SwiperSlide key={index}>
-            <div className="logo-container">
+            <div
+              className="logo-container"
+              style={{ display: "flex", justifyContent: "-webkit-center" }}
+            >
               <img src={brand.img} alt={brand.name} className="brand-logo" />
             </div>
           </SwiperSlide>

@@ -78,12 +78,23 @@ function Footer() {
             </div>
             <div className="col-lg-3 col-md-6">
               <h4 className="text-light mb-4">Services</h4>
-              <p className="btn btn-link">Diagnostic Test</p>
-              <p className="btn btn-link">Engine Servicing</p>
-              <p className="btn btn-link">Tires Replacement</p>
-              <p className="btn btn-link">Oil Changing</p>
-              <p className="btn btn-link">Vacuam Cleaning</p>
+              <p className="btn btn-link">
+                Complete Computer Scan (Diagnostic Test)
+              </p>
+              <p className="btn btn-link">Comprehensive Maintenance</p>
+              <p className="btn btn-link">Engine Overhaul</p>
+              <p className="btn btn-link">Transmission Overhaul</p>
+              <p className="btn btn-link">Electrician Work</p>
+              <p className="btn btn-link">Suspension Work</p>
+              <p className="btn btn-link">Engine Oil Change</p>
+              {/* <p className="btn btn-link">Transmission Oil Change</p>
+              <p className="btn btn-link">Denting & Painting</p>
+              <p className="btn btn-link">Oven Paint</p>
+              <p className="btn btn-link">Paintless Dent Removal</p>
+              <p className="btn btn-link">Amendment (Body Fixing)</p>
+              <p className="btn btn-link">Spare Parts Supply</p> */}
             </div>
+
             {/* <div className="col-lg-3 col-md-6">
               <h4 className="text-light mb-4">Newsletter</h4>
               <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
